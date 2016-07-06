@@ -1,0 +1,9 @@
+com\algaworks\cobranca\enums\StatusTitulo.class
+com\algaworks\cobranca\controller\TituloController.class
+com\algaworks\cobranca\service\CadastroTituloService.class
+com\algaworks\cobranca\repository\filter\TituloFilter.class
+com\algaworks\cobranca\CobrancaApplication.class
+com\algaworks\cobranca\model\Titulo.class
+com\algaworks\cobranca\CobrancaApplication$MvcControllers.class
+com\algaworks\cobranca\repository\Titulos.class
+com\algaworks\cobranca\ServletInitializer.class
